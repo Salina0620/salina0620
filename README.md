@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋, I'm Salina Adhikari
 
-<!--
-**Salina0620/salina0620** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an aspiring software developer, currently learning and growing in the tech world. I'm excited about exploring new technologies and honing my skills.
 
-Here are some ideas to get you started:
+- ✨ I'm currently learning various aspects of software development.
+- 👯 I'm looking to collaborate on open-source projects and any interesting coding challenges.
+- 💬 Ask me about software development, coding, or anything else you'd like to discuss!
+- 📫 How to reach me: salina.adhikari206@gmail.com
+- ⚡ Fun fact: I love reading novels and trying out new things!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you're interested in more details, feel free to reach out or check out my Instagram!
+
+### Connect with me:
+[Instagram](https://www.instagram.com/sa.linaa__/?igsh=cDl6ZDI0ZTR2ZXJ1&utm_source=qr)
